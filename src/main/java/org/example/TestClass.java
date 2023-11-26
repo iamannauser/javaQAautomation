@@ -9,6 +9,7 @@ public class TestClass {
         System.out.println(Faker.instance().food().vegetable());
 
 
+
     }
 
 }
