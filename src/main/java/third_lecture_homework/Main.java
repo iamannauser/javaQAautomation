@@ -6,7 +6,6 @@ public class Main {
 
         double amountInUsd = 100;
         double totalAmount = converter.calculateTotalAmount(amountInUsd);
-
         System.out.println("Total amount in UAH: " + totalAmount);
     }
 }
